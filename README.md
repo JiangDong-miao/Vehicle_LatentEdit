@@ -1,8 +1,6 @@
 # Vehicle_LatentEdit
 
 
-The Instructions will be updated later
-
 
 ## License
 
