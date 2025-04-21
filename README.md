@@ -9,7 +9,7 @@ You are free to share and adapt the content for non-commercial purposes, provide
 
 ## Purpose of Release
 
-This repository is shared to accompany the submission of our manuscript titled **"Fine-Grained 3D Vehicle Shape Manipulation via Latent Space Editing"** to **[The visual computer]**. 
+This repository is shared to accompany the submission of our manuscript titled **"Fine-Grained 3D Vehicle Shape Manipulation via Latent Space Editing"**
 
 
 ## Dataset Preparation
